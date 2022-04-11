@@ -1,0 +1,4 @@
+x+	Rotate	4050
+y+	Rotate	8050
+x-	Rotate	12050
+y-	Rotate	50
